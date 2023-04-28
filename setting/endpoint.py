@@ -1,0 +1,1 @@
+CONN_NAME_KUCOIN = "wss://ws-api-spot.kucoin.com/"
